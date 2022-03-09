@@ -1,2 +1,2 @@
-# sUpEr-KuSe
-Ñ in english
+# Kill the moster
+project 34
